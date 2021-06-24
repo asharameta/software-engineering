@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1591290132 source:c:\projects\c-struct\main.c
+	<stdio.h>
+	"head.h"
+	<malloc.h>
+
+1586446233 c:\projects\c-struct\headerc.h
+
+1591290353 source:c:\projects\c-struct\source.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1587314313 source:c:\users\shiiit\desktop\sharameta_1zadanie.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1588718287 source:c:\users\shiiit\desktop\sharameta_lab9zad3.c
+	<stdio.h>
+
+1588935442 source:c:\users\shiiit\desktop\sharameta_lab10zad1.c
+
+1589304564 source:c:\projects\c-struct\lab10zad2.c
+	<stdio.h>
+	<string.h>
+
+1589304656 source:c:\users\shiiit\desktop\lab11zad1.c
+	<stdio.h>
+	<string.h>
+
+1589304656 source:c:\users\shiiit\desktop\aliaksei\five_nights_at_freddy's_2_full\labsc-c++\lab11zad1.c
+	<stdio.h>
+	<string.h>
+
+1589988504 source:c:\users\shiiit\desktop\aliaksei\five_nights_at_freddy's_2_full\labsc-c++\lab12zad2.c
+
+1591290006 c:\projects\c-struct\head.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

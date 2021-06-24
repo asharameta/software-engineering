@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591362511 source:c:\projects\hueta\source.c
+	"head.h"
+
+1591362472 c:\projects\hueta\head.h
+	<stdio.h>
+	<ctype.h>
+	<malloc.h>
+	<stdlib.h>
+
+1591362472 source:c:\projects\hueta\main.c
+	"head.h"
+

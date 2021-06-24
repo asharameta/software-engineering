@@ -1,0 +1,4 @@
+﻿  AiZo.cpp
+C:\projects\AiZo\AiZo\AiZo.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\projects\AiZo\AiZo\AiZo.cpp(95,9): warning C4101: kto: неиспользованная локальная переменная
+  AiZo.vcxproj -> C:\projects\AiZo\Debug\AiZo.exe

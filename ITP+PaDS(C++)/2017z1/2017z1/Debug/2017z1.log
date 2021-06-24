@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\projects\2017z1\2017z1\Source.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+  2017z1.vcxproj -> C:\projects\2017z1\Debug\2017z1.exe

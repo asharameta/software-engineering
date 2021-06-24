@@ -1,0 +1,18 @@
+Zamowienie: 
+Nazwa towaru: 105
+Producent: Apple
+Ilosc towaru: 1
+Koszt wynosi: 2000.000000
+===========================
+Zamowienie: 
+Nazwa towaru: 2080
+Producent: Msi
+Ilosc towaru: 1
+Koszt wynosi: 1500.000000
+===========================
+Zamowienie: 
+Nazwa towaru: 22 333
+Producent: Qqq
+Ilosc towaru: 1
+Koszt wynosi: 111.000000
+===========================

@@ -1,0 +1,17 @@
+﻿  template.typename.cpp
+C:\Users\unknown\Desktop\aliaksei\VS2019\Project1HOME\Project1HOME\template.typename.cpp(9,11): warning C4244: return: преобразование "T2" в "T1", возможна потеря данных
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T1=int
+          ]
+C:\Users\unknown\Desktop\aliaksei\VS2019\Project1HOME\Project1HOME\template.typename.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "T1 Sum<int,double>(T1,T2)"
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+  Project1HOME.vcxproj -> C:\Users\unknown\Desktop\aliaksei\VS2019\Project1HOME\Debug\Project1HOME.exe

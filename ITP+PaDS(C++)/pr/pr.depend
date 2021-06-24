@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1586358592 source:c:\projects\pr\zadanie4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1586007409 source:c:\projects\pr\untitled1.c
+	<stdlib.h>
+	<time.h>
+
+1586007457 source:c:\projects\pr\untitled1.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1586007928 source:c:\users\shiiit\downloads\funkcja_wskaznik.c
+	<stdio.h>
+
+1586007645 source:c:\users\shiiit\downloads\program_ver1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1586007328 source:c:\users\shiiit\downloads\program_ver2.c
+
+1586007328 source:c:\users\shiiit\downloads\zadanie1lab6.c
+
+1586007328 source:c:\users\shiiit\downloads\zadanie2lab6_ver1.c
+
+1586007328 source:c:\users\shiiit\downloads\zadanie2lab6_ver2.c
+
+1586362168 source:c:\users\shiiit\desktop\zadd3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1586443527 source:c:\users\shiiit\downloads\sharameta_lab6zadanie3.c.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

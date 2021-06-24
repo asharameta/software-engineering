@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592920633 source:c:\projects\kol2-c\main.c
+	"head.h"
+
+1592920633 c:\projects\kol2-c\head.h
+	<stdio.h>
+	<ctype.h>
+	<malloc.h>
+	<stdlib.h>
+
+1592920633 source:c:\projects\kol2-c\source.c
+	"head.h"
+

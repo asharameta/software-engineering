@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\projects\1st lab\1st lab\main.cpp(41,25): warning C4018: <: несоответствие типов со знаком и без знака
+  1st lab.vcxproj -> C:\projects\1st lab\Debug\1st lab.exe

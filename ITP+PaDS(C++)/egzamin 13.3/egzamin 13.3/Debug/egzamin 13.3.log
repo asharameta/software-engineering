@@ -1,0 +1,9 @@
+﻿  dane.cpp
+C:\projects\egzamin1\egzamin1\dane.cpp(81,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\egzamin1\egzamin1\dane.cpp(86,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\egzamin1\egzamin1\dane.cpp(99,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\egzamin1\egzamin1\dane.cpp(104,19): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\projects\egzamin1\egzamin1\main.cpp(52,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  egzamin 13.3.vcxproj -> C:\projects\egzamin 13.3\Debug\egzamin 13.3.exe

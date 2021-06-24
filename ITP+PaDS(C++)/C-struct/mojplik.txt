@@ -1,0 +1,4 @@
+pierwszy wiersz
+drugi wiersz
+trzeci wiersz
+koniec pliku

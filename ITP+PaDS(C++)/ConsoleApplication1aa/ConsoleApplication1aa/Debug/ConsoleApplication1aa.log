@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1aa.c
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(17,15): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(37,21): warning C4133: функция: несовместимые типы - из "int **" в "float **"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(38,34): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(42,30): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(38,1): warning C4133: инициализация: несовместимые типы - из "int *" в "float *"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(42,1): warning C4133: инициализация: несовместимые типы - из "int *" в "float *"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(85,20): warning C4133: функция: несовместимые типы - из "float *" в "int *"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(106,17): warning C4133: return: несовместимые типы - из "float *" в "int *"
+C:\projects\ConsoleApplication1aa\ConsoleApplication1aa\ConsoleApplication1aa.c(124,17): warning C4133: return: несовместимые типы - из "float *" в "int *"
+  ConsoleApplication1aa.vcxproj -> C:\projects\ConsoleApplication1aa\Debug\ConsoleApplication1aa.exe

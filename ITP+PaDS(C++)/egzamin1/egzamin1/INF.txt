@@ -1,0 +1,7 @@
+167167;-1.07374e+08;Williams;A.M.R.
+555555;4.5;Foster;N.
+123456;4.5;Kowalski;J.P.
+654321;4;Potter;H.
+897678;4;Granger;H.J.
+342123;3.5;Weasley;R.
+990032;4.5;Lovegood;L.

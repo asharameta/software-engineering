@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AiZO_z2", "AiZO_z2\AiZO_z2.vcxproj", "{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Debug|x64.ActiveCfg = Debug|x64
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Debug|x64.Build.0 = Debug|x64
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Debug|x86.Build.0 = Debug|Win32
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Release|x64.ActiveCfg = Release|x64
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Release|x64.Build.0 = Release|x64
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Release|x86.ActiveCfg = Release|Win32
+		{6E2F424A-AC04-4DB2-900B-DBF7AF7D1109}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B028C6-C636-4D8F-B206-757EF88A9AC3}
+	EndGlobalSection
+EndGlobal

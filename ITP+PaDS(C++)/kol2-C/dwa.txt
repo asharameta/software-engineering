@@ -1,0 +1,2 @@
+Srednia pola ilosc wynosi: 1.000000
+===========================

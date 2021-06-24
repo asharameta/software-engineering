@@ -1,0 +1,3 @@
+﻿  program.cpp
+C:\projects\AntonZ3\AntonZ3\program.cpp(4,8): warning C4101: g: неиспользованная локальная переменная
+  AntonZ3.vcxproj -> C:\projects\AntonZ3\Debug\AntonZ3.exe

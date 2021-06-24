@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\projects\AiZO_z2\AiZO_z2\main.cpp(9,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\projects\AiZO_z2\AiZO_z2\main.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AiZO_z2.vcxproj -> C:\projects\AiZO_z2\Debug\AiZO_z2.exe

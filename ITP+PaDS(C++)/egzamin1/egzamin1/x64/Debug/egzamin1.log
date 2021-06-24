@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\projects\egzamin1\egzamin1\student.h(41,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  egzamin1.vcxproj -> C:\projects\egzamin1\x64\Debug\egzamin1.exe

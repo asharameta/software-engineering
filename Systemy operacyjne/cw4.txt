@@ -1,0 +1,6 @@
+2) ls -l /bin | awk '($8==2019) {print $11"---"$9"--- "$7,$6","$8}'
+
+1)ls -l | tail -n +2 | awk -F: '($1 ~ /[0-9].*[0-9]/  && $3 ~ /[6-9][2-9][0-9][0-9]/){print $5"---"$1"---"$3; suma=suma+1} END{print "\n------\nRAZEM= "suma}' /etc/passwd
+(sprawdzanie 2 liczb poprawne ale mysle ze po prostu nie ma takich loginow ktore ma 2 liczby w loginach nie obok siebie)
+
+3)sort -t: -k7 /etc/passwd | awk -F: ' powloka != $7 {powloka=$7; print "\n"powloka} powloka==$7 {print $1}'
