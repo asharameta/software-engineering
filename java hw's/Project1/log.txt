@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-05T23:02:11.618032200Z</date>
+  <millis>1638745331618</millis>
+  <nanos>32200</nanos>
+  <sequence>0</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>com.company.Triangle</class>
+  <method>getFigure</method>
+  <thread>1</thread>
+  <message>Triangle vertices: (0.0,0.0) (2.0,3.0) (5.0,8.0)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-05T23:06:59.850895900Z</date>
+  <millis>1638745619850</millis>
+  <nanos>895900</nanos>
+  <sequence>0</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>com.company.Triangle</class>
+  <method>getFigure</method>
+  <thread>1</thread>
+  <message>Triangle vertices: (1.0,1.0) (2.0,4.0) (3.0,3.0)</message>
+</record>
+<record>
+  <date>2021-12-05T23:06:59.870205500Z</date>
+  <millis>1638745619870</millis>
+  <nanos>205500</nanos>
+  <sequence>1</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>com.company.Circle</class>
+  <method>getFigure</method>
+  <thread>1</thread>
+  <message>Circle: (0.0,5.0) 7.0</message>
+</record>
+<record>
+  <date>2021-12-05T23:06:59.877186700Z</date>
+  <millis>1638745619877</millis>
+  <nanos>186700</nanos>
+  <sequence>2</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>com.company.Quadrangle</class>
+  <method>getFigure</method>
+  <thread>1</thread>
+  <message>Quadrangle vertices: (0.0,0.0) (0.0,5.0) (1.0,9.0) (7.0,4.0)</message>
+</record>
+<record>
+  <date>2021-12-05T23:06:59.878184500Z</date>
+  <millis>1638745619878</millis>
+  <nanos>184500</nanos>
+  <sequence>3</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>com.company.Quadrangle</class>
+  <method>getFigure</method>
+  <thread>1</thread>
+  <message>Quadrangle vertices: (0.0,0.0) (0.0,3.0) (3.0,3.0) (3.0,0.0)</message>
+</record>
+</log>
